@@ -1,0 +1,9 @@
+# Basic
+
+✔ Implementation of the format analyzer @done (2/5/2019, 1:49:18 PM)
+  ✔ Basic of KEY = value @done (2/5/2019, 1:49:19 PM)
+  ✔ Expansion support @done (2/5/2019, 1:49:20 PM)
+☐ Read and parse dotenv file
+☐ Implement gets
+  ☐ tuples expansion
+  ☐ warning about the required
