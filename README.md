@@ -13,7 +13,7 @@ This project brings together some useful tools for dealing with environment vari
 You can combine this tool with [Mix Config Provider][mix_config_provider], and
 get a relatively elegant support for configuration through environment variables.
 
-k8s developer: In my experience deploying [Elixir][elixir] applicatons for
+k8s developer: In my experience deploying [Elixir][elixir] applications for
 [k8s](k8s), this collection of tools has proven very useful ;)
 
 ## Installation
