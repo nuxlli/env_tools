@@ -8,7 +8,7 @@ This project brings together some useful tools for dealing with environment vari
 
 - Support for loading and parsing [dotenv][dotenv] files: `EnvTools.load`
 - Parsing for [dotenv][dotenv] formats: `EnvTools.decode`
-- A types transformer for environment variables: `EnvTools.get` 
+- A types transformer for environment variables: `EnvTools.get`
 
 You can combine this tool with [Mix Config Provider][mix_config_provider], and
 get a relatively elegant support for configuration through environment variables.
@@ -61,7 +61,7 @@ config :my_app,
 # other configs
 ```
 
-## Regras
+## Rules
 
 Formally, [dotenv][dotenv] is not a standardized format. However, many other
 projects have used the npm project as a foundation for implementing their parsers.
